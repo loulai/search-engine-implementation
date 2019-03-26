@@ -10,8 +10,10 @@ However, this code does do the following:
  - displays search results in a browser window
  - allows navigation to documents
 
-The final result looks like:
+The final search page looks like:
 ![search page](./search-page.png)
+
+And the file display looks like:
 ![search file page](./search-file-page.png)
 
 The actual search mechanism of the code is three parts:
